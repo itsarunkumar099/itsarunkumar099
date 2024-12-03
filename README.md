@@ -1,11 +1,3 @@
-- 👋 Hi, I’m Arun Kumar 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 Hi, I'm Arun Kumar! 👋
 
 About Me:
@@ -37,11 +29,15 @@ Open-source contributions to improve coding skills and learn from the community.
 
 How to Reach Me:
 
-📧 Email: arunsain064@gmail.com
+📧 Email: 
+arunsain064@gmail.com
+arunsain063@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/itsarunkumar099?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 LinkedIn:
+ https://www.linkedin.com/in/itsarunkumar099?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
-🌟 GitHub: @itsarunkumar099
+🌟 GitHub:
+ https://github.com/itsarunkumar099
 
 
 Pronouns:
