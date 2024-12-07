@@ -32,7 +32,7 @@ Open-source contributions to improve coding skills and learn from the community.
 📧 Email: arunsain064@gmail.com
 arunsain063@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/itsarunkumar099?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+🔗 LinkedIn: https://www.linkedin.com/in/itsarunkumar099?
 
 🌟 GitHub: https://github.com/itsarunkumar099
 
