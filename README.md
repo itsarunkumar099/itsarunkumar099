@@ -59,7 +59,6 @@ I love **building projects, learning new technologies, and collaborating with de
 ## **📊 GitHub Stats**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsarunkumar099&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=itsarunkumar099&theme=radical" alt="GitHub Streak" width="50%" />
 </p>
 
 ---
