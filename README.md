@@ -67,7 +67,7 @@ Open-source contributions to improve coding skills and learn from the community.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsarunkumar099&show_icons=true&locale=en" alt="itsarunkumar099" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsarunkumar099&" alt="itsarunkumar099" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsarunkumar099" alt="itsarunkumar099" /></p>
 
 <!---
 itsarunkumar099/itsarunkumar099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
