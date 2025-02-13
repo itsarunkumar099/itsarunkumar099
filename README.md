@@ -12,8 +12,6 @@
 - 🏆 **Internships:** Completed CISCO AICTE Virtual Internship Program 2023  
 - ✨ **Fun Fact:** I love problem-solving and building things that make life easier!  
 
----
-
 ## **🌐 Connect With Me**
 <a href="[https://linkedin.com/in/your-profile](https://linkedin.com/in/arun kumar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun kumar" height="30" width="40" /></a>
 <a href="[https://twitter.com/your-profile](https://x.com/ArunKum52655106)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
