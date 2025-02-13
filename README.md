@@ -14,14 +14,6 @@
 
 ---
 
-## **🌐 Connect With Me**
-<a href="[https://linkedin.com/in/your-profile](https://linkedin.com/in/arun kumar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun kumar" height="30" width="40" /></a>
-<a href="[https://twitter.com/your-profile](https://x.com/ArunKum52655106)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="https://fb.com/arun kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun kumar" height="30" width="40" /></a>
-<a href="[https://instagram.com/your-profile](https://instagram.com/_itsarunkumar_)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsarunkumar_" height="30" width="40" /></a>
-
----
-
 ## **🛠 Tech Stack & Tools**  
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/> 
@@ -36,14 +28,11 @@
 
 ---
 
-## **📊 GitHub Stats**  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsarunkumar099&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsarunkumar099&theme=tokyonight" alt="GitHub Streak" width="48%" />
-</p>  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsarunkumar099&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
+## **🌐 Connect With Me**
+<a href="[https://linkedin.com/in/your-profile](https://linkedin.com/in/arun kumar)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun kumar" height="30" width="40" /></a>
+<a href="[https://twitter.com/your-profile](https://x.com/ArunKum52655106)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://fb.com/arun kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arun kumar" height="30" width="40" /></a>
+<a href="[https://instagram.com/your-profile](https://instagram.com/_itsarunkumar_)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itsarunkumar_" height="30" width="40" /></a>
 
 ---
 
@@ -76,6 +65,15 @@
 
 ### **✨ Fun Fact**
 I love **building projects, learning new technologies, and collaborating with developers worldwide!** 🚀
+
+---
+
+## **📊 GitHub Stats**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsarunkumar099&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="48%" />
+</p>
+
+---
 
 <!---
 itsarunkumar099/itsarunkumar099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
