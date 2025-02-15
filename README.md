@@ -50,7 +50,7 @@
 
 ---
 
-### **✨ Fun Fact**
+## **✨ Fun Fact**
 I love **building projects, learning new technologies, and collaborating with developers worldwide!** 🚀
 
 ---
