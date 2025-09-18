@@ -21,7 +21,7 @@ I am an undergraduate Computer Science and Engineering student at Maharshi Dayan
 - :boom: You can visit [MY WEBSITE](https://www.hadeninteractive.com/work-progress-website/).
 <br>
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me:
+## 🌐 Connect with me:
 <p align="center">
 	<a href="mailto:arunsain064@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/itsarunkumar099"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
