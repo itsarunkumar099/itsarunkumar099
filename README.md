@@ -152,8 +152,7 @@ I am an undergraduate Computer Science and Engineering student at Maharshi Dayan
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
   
-<p <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=itsarunkumar099&theme=highcontrast&mode=weekly" alt="GitHub Streak" /></a></p>
-
+![](https://nirzak-streak-stats.vercel.app/?user=itsarunkumar099&theme=tokyonight&hide_border=false)<br/>
 </details>
 
 <details><summary><h3> 🔝 Top Contributed Repo</h3></summary>
@@ -164,7 +163,7 @@ I am an undergraduate Computer Science and Engineering student at Maharshi Dayan
 <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsarunkumar099&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsarunkumar099&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="itsarunkumar099" /></a> </p>
 
 	
 </details>
@@ -172,7 +171,6 @@ I am an undergraduate Computer Science and Engineering student at Maharshi Dayan
 <details><summary><h3> ✍️ Random Dev Quote </h3></summary>
 	
 <div>
-  <p align="center">
   <a herf="https://github.com/itsarunkumar099/github-readme-quotes"> <img alt = "Quote 1" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 	<a href="https://github.com/itsarunkumar099/github-readme-quotes"> <img alt = "Quote 2" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
   </p>
