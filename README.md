@@ -11,7 +11,7 @@
 I am an Undergraduate Computer Science and Engineering student at Maharshi Dayanand University. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
 
 * **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning...
   - AI/ML
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
