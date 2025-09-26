@@ -188,6 +188,6 @@ I am an Undergraduate Computer Science and Engineering student at Maharshi Dayan
 </div>
 
 <!---
-itsarunkumar099/itsarunkumar099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+itsarunkumar099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
