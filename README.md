@@ -160,13 +160,13 @@ I am an Undergraduate Computer Science and Engineering student at Maharshi Dayan
 ![](https://github-contributor-stats.vercel.app/api?username=itsarunkumar099&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </details>
 
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
+<!---  <details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
 
 	
 <p  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsarunkumar099&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="itsarunkumar099" /></a> </p>
 
 	
-</details>
+</details>   --->
 	
 <details><summary><h3> ✍️ Random Dev Quote </h3></summary>
 	
